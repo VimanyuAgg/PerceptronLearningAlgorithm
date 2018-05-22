@@ -1,0 +1,39 @@
+2018-02-27 23:16:59,182 - __main__ - INFO - Solution Ex 1.4: --by Vimanyu Aggarwal 011006125
+2018-02-27 23:16:59,182 - __main__ - INFO - Generating input space
+2018-02-27 23:16:59,182 - __main__ - INFO - [[10, 22], [17, 28], [1, 26], [26, 17], [28, 14], [5, 29], [10, 28], [19, 27], [29, 6], [2, 12], [4, 3], [1, 6], [27, 22], [28, 23], [10, 7], [17, 29], [12, 21], [0, 11], [1, 26], [3, 10]]
+2018-02-27 23:16:59,182 - __main__ - INFO - Input space Successfully Generated
+2018-02-27 23:16:59,182 - __main__ - INFO - Generating Output space
+2018-02-27 23:16:59,182 - __main__ - INFO - [1, 1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1]
+2018-02-27 23:16:59,183 - __main__ - INFO - Output Space Successfully Generated
+2018-02-27 23:16:59,183 - __main__ - INFO - Commencing PLA for Data size=20 and iterations=100
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [3, -24]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [29, -7]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [26, -17]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [36, 5]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [35, -21]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [52, 8]
+2018-02-27 23:16:59,183 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,183 - __main__ - INFO - [49, -2]
+2018-02-27 23:16:59,184 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,184 - __main__ - INFO - [46, -12]
+2018-02-27 23:16:59,184 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,184 - __main__ - INFO - [36, -40]
+2018-02-27 23:16:59,184 - __main__ - INFO - Weights udpated....
+2018-02-27 23:16:59,184 - __main__ - INFO - [46, -18]
+2018-02-27 23:16:59,184 - __main__ - INFO - Hurray! No Misclassified data point exists
+2018-02-27 23:16:59,184 - __main__ - INFO - Solution Found: Weights are below
+2018-02-27 23:16:59,184 - __main__ - INFO - [46, -18]
+2018-02-27 23:16:59,184 - __main__ - INFO - Actual Weights were: 
+2018-02-27 23:16:59,184 - __main__ - INFO - [2, -1]
+2018-02-27 23:16:59,184 - __main__ - INFO - Hypothesis Function g: (46 x1)+(-18 x2)+3
+2018-02-27 23:16:59,184 - __main__ - INFO - Target Function t: (2 x1)+(-1 x2)+3
+2018-02-27 23:16:59,356 - __main__ - INFO - Error in slope: 0.2777777777777777
+2018-02-27 23:16:59,357 - __main__ - INFO - time taken : 0:00:00.174796
+2018-02-27 23:16:59,357 - __main__ - INFO - Solution found in iteration: 10/100
+2018-02-27 23:16:59,357 - __main__ - INFO - Shutting down!
